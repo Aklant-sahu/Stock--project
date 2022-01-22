@@ -1,0 +1,6 @@
+create conda env
+pip install boost
+pip install cmake
+conda install -c conda-forge dlib
+
+then install requirement .txt
